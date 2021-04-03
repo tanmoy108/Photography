@@ -1,0 +1,71 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+/* background header section */
+.image
+{
+    height: 100vh;
+    background-image: linear-gradient( to right,rgba(0, 0, 0, 0.657),rgba(2, 1, 0, 0.472)),url(background_img.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+/*End of background header section */
+.navbar-brand img
+{
+    height: 10%;
+    width: 10%;
+}
+.mission
+{
+    background-color: #151F20;
+}
+hr
+{
+    background-color: rgb(216, 216, 216);
+    width: 8%;
+    margin: auto;
+}
+.camera img
+{
+    width: 80%;
+}
+.paragraph_color
+{
+    color: rgb(190, 184, 184);
+}
+.collection
+{
+    background-color: #6C757D;
+}
+.customer
+{
+    background-color: #151F20;
+}
+.img-fluid
+{
+    box-shadow: 1px 4px 3px 2px rgba(0, 0, 0, 0.459);
+}
+.customer_img
+{
+    width: 10%;
+}
+.container_img
+{
+    display: flex;
+    justify-content: center;
+}
+.checked {
+    color: orange;
+  }
+  .card
+  {
+      background-image: linear-gradient(rgba(0, 0, 0, 0.479),rgba(44, 37, 37, 0.212)),url(p1.jpg);
+      background-size: cover;
+      background-position: center;
+  }
